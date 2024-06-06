@@ -1,2 +1,2 @@
 # bussindps
-florrdps calculator, but the one at bussin://florrdps.cat (use napture)
+florrdps calculator, but the one at buss://florrdps.cat (use napture)
